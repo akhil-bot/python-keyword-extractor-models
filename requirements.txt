@@ -1,0 +1,7 @@
+python-rake
+spacy
+rake-nltk
+git+https://github.com/boudinfl/pke.git
+git+https://github.com/LIAAD/yake
+numpy
+
